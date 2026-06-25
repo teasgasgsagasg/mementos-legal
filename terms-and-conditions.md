@@ -1,3 +1,7 @@
+---
+title: Terms and Conditions
+---
+
 Terms & Conditions
 These terms and conditions apply to the Mementos app for mobile devices, together with any related services operated by Umut Güngör Tatlıcıbaşı (collectively, the "Application"). Umut Güngör Tatlıcıbaşı is hereby referred to as the "Service Provider".
 
